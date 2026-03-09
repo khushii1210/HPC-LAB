@@ -1,0 +1,11 @@
+Particles	Total_Interp_Time
+Running case: 100 particles
+100	0.000078
+Running case: 10000 particles
+10000	0.001164
+Running case: 1000000 particles
+1000000	0.109079
+Running case: 100000000 particles
+100000000	11.102957
+Running case: 1000000000 particles
+1000000000	155.610888
